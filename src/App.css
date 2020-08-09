@@ -9,7 +9,7 @@ html,body{
 body{
   display: grid;
   place-items: center;
-  background: url(https://wallpapercave.com/wp/wp2343137.jpg);
+  background: url(./wp2343137.jpg);
 }
 h1{
   color: #424242;
@@ -22,7 +22,7 @@ h1{
   width: 333px;
   height: 70vh;
   margin: auto;
-  background: url(https://wallpapercave.com/wp/wp2343137.jpg);
+  background: url(./wp2343137.jpg);
   padding: 30px;
   -webkit-box-shadow: 0 0 5px #424242;
   box-shadow: 0 0 5px #424242;
