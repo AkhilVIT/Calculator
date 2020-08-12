@@ -3,12 +3,13 @@ import './App.css';
 function App() {
   let[initial,setInitial] = useState("");
   const buttons = [
-    { buttonValue : 'C' , col : 3  },
+    { buttonValue : 'C' , col : 2  },
     { buttonValue : '/' , col : 1 },
+    { buttonValue : '%' , col : 1 },
     { buttonValue : '7' , col : 1 },
     { buttonValue : '8' , col : 1 },
     { buttonValue : '9' , col : 1 },
-    { buttonValue : '%' , col : 1 },
+    { buttonValue : '*' , col : 1 },
     { buttonValue : '4' , col : 1 },
     { buttonValue : '5' , col : 1 },
     { buttonValue : '6' , col : 1 },
